@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in VBScript error handling.  The `bug.vbs` file shows the flawed implementation, using the generic error number 5 without a clear error description. This makes debugging more difficult. The `bugSolution.vbs` provides a more robust alternative.
